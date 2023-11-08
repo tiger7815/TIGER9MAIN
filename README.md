@@ -1,6 +1,6 @@
 # txt uploader
 
-# MADE BY MR. SATYAM
+# MADE BY MR. Tiger
 
 
 ## DEPLOY TO HEROKU
